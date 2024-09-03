@@ -23,3 +23,20 @@
         <html lang="pt-br">
 </html>
 
+
+
+
+
+
+
+
+body { 
+    background: rgb(53, 87, 87);
+    color: whitesmoke;
+}
+    
+header {
+    border-bottom: solid 6px catedblue;
+}
+
+
